@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">money currency transfer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="view_balance">VIEW BALANCE</string>
+    <string name="send_money">SEND MONEY</string>
+    <string name="view_transactions">VIEW TRANSACTIONS</string>
+    <string name="name">Name</string>
+    <string name="recipient">Recipient</string>
+    <string name="button">Button</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">BACK</string>
+    <string name="eas_sent_to">eas sent to:</string>
+    <string name="done">Done</string>
+    <string name="is_sent_to">is sent to:</string>
+    <string name="add_5000">add 5000</string>
+    <string name="amount">amount</string>
+    <string name="other_currency">other currency</string>
+    <string name="conversion_rate">conversion rate</string>
+    <string name="amount_in_currency">amount in currency</string>
+    <string name="datetime">DateTime</string>
+    <string name="in_what_currency_would_you_like_to_send">in what currency would you like to send</string>
+    <string name="send">send</string>
+    <string name="_0_00">0.00₪</string>
+    <string name="Amount">Amount</string>
+    <string name="balance_amount_left">balance amount left:</string>
+    <string name="in">in</string>
+</resources>
